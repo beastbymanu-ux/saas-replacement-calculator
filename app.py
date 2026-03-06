@@ -445,12 +445,3 @@ with col_inc3:
     """)
 
 # ============================================================
-# FOOTER
-# ============================================================
-st.markdown("---")
-st.markdown(
-    "<p style='text-align: center; color: #6c757d; font-size: 0.85rem;'>"
-    "Built by OpenClaw — Private AI Infrastructure"
-    "</p>",
-    unsafe_allow_html=True,
-)
